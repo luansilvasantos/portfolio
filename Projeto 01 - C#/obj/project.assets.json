@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LUANSANTOS\\DIO\\DIO.Bank\\DIO.Bank.csproj",
+      "projectUniqueName": "C:\\Users\\LUANSANTOS\\Documents\\GitHub\\portfolio\\Projeto 01 - C#\\DIO.Bank.csproj",
       "projectName": "DIO.Bank",
-      "projectPath": "C:\\Users\\LUANSANTOS\\DIO\\DIO.Bank\\DIO.Bank.csproj",
+      "projectPath": "C:\\Users\\LUANSANTOS\\Documents\\GitHub\\portfolio\\Projeto 01 - C#\\DIO.Bank.csproj",
       "packagesPath": "C:\\Users\\LUANSANTOS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LUANSANTOS\\DIO\\DIO.Bank\\obj\\",
+      "outputPath": "C:\\Users\\LUANSANTOS\\Documents\\GitHub\\portfolio\\Projeto 01 - C#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LUANSANTOS\\AppData\\Roaming\\NuGet\\NuGet.Config"
